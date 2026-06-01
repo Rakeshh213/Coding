@@ -1,0 +1,39 @@
+.first{
+    background-color: rgba(7, 247, 247, 0.432);
+    font-style: oblique;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+     
+    border: black solid ;
+    border-radius: 10px;
+  
+}
+#ten{
+    background-color: hwb(150 2% 45% / 0.267);
+    width: 250px;
+    padding: 10px;
+
+}
+.third{
+    background-color: rgba(202, 105, 105, 0.705);
+    color: rgb(1, 17, 17);
+    padding-left:20px;
+    margin: 10px;
+}
+
+footer{
+    text-align: end;
+    background-color: rgb(255, 255, 255);
+    color: rgba(235, 3, 3, 0.39);
+    font-family: monospace;
+
+}
+    
+.fourth{
+    font-style: italic;
+    background-color: rgba(255, 228, 196, 0.5);
+    width:300px;
+    margin: 10px;
+    
+}
