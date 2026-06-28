@@ -1,0 +1,104 @@
+h1{
+    color: blue;
+    position: sticky;
+    }
+    img{
+         height: 200px;
+         width: 500px;
+         border: 2px solid black;
+    }
+    p{
+        color: rgb(9, 70, 88);
+    }
+     
+     
+    #first{
+
+        color: blue;
+        position: fixed;
+        top: 0px;
+        left: 600px;
+        margin: 10px;
+    }
+     
+     
+
+    .fourth{
+
+        color: blue;
+        position: fixed;
+        top: 0px;
+        left: 500px;
+        margin: 10px;
+    }
+    .hero{
+        text-align: center;
+        position: relative;
+    }
+     
+      
+
+
+    #from{
+        background-color: rgb(21, 172, 121);
+        padding: 10px;
+    }
+
+
+
+    body{
+        background-color: rgb(47, 240, 240);
+    }
+
+
+
+    .contactbody{
+        background-color: rgb(223, 223, 116);
+    }
+
+
+
+    #train{
+        
+        padding: 10px;
+        text-align: center;
+    }
+    p{
+    text-align: center;
+    color: darkred;
+    }
+
+    button{
+        border-radius: 20px;
+    }
+
+    footer{
+        background-color: rgba(161, 159, 159, 0.726);
+        height: 100px;
+        color: rgb(67, 78, 37);
+    }
+    .position{
+        position:fixed;
+        top: 0px;
+     right: 0px;
+     padding: 10px;
+    }
+
+
+    #buttons{
+        display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    }
+
+    
+      #about{
+        position: fixed;
+        top: 0;
+        margin-right: 70px;
+      }
+      #contact{
+        position: fixed;
+        top: 0%;
+        margin-right: 0px;
+      }

@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    
+}
+
+.container{
+    height: 400px;
+    width: 800px;
+    gap: 5px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: 1fr;
+}
+
+.box{
+    background-color: orange;
+}
+
+
+img{
+    height: 400px;
+    width: 800px;
+}
