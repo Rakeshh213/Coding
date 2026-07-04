@@ -1,0 +1,24 @@
+#{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 2fr 2fr 1fr 2fr 2fr;
+    grid-template-rows: 1fr 2fr 1fr ;
+    gap: 10px;
+    height: 800px;
+    width: 400px;
+}
+
+.box1{
+    background-color: white;
+     
+}
